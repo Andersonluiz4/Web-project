@@ -283,11 +283,10 @@ h1 {
 =======================*/
 
 .sixth-section {
-	background-image: url(../img/bamboo.jpg);
-	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
 	padding: 40px;
+	background-color: bisque;
 }
 
 .sixth-section input {
