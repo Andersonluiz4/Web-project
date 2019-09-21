@@ -21,13 +21,14 @@ body {
 }
 p {
 	font-size: 13px;
-	color: #7a7a7a;
+	color:chocolate;
 	line-height: 22px;
 	text-align: center;
 }
 
 h1 {
 	text-align: center;
+	color: burlywood;
 }
 
 .primary-button a {
@@ -101,7 +102,7 @@ h1 {
 
 .second-section h4 {
 	font-size: 16px;
-	color: #415b90;
+	color: chocolate;
 	margin-top: 25px;
 	margin-bottom: 15px;
 }
@@ -116,8 +117,7 @@ h1 {
 	width: 100%;
 	background-repeat: no-repeat;
 	padding: 100px;
-	background-color: saddlebrown;
-	
+	background-color: burlywood;
 }
 
 .third-section .left-image img {
@@ -138,7 +138,7 @@ h1 {
 
 .third-section h4 {
 	margin-top: 10px;
-	color: #fff;
+	color: white;
 	font-size: 24px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -162,7 +162,7 @@ h1 {
 	background-repeat: no-repeat;
 	padding: 16% 0px;
 	padding: 20px;
-    background-color: bisque;
+	background-image: url(../img/madeira1.jpg)
 }
 
 .fourth-section .col-md-3 {
@@ -176,15 +176,15 @@ h1 {
 }
 
 .fourth-section .first-item .text {
-	background-color: #f4f4f4;
+	background-image: url(../img/madeira.jpg);
 }
 
 .fourth-section .second-item .text {
-	background-color: #eaeaea;
+	background-image: url(../img/madeira.jpg);
 }
 
 .fourth-section .third-item .text {
-	background-color: #dedede;
+	background-image: url(../img/madeira.jpg);
 }
 
 .fourth-section .portfolio-item .text {
@@ -193,12 +193,12 @@ h1 {
 
 .fourth-section .portfolio-item .text span {
 	font-size: 13px;
-	color: #7a7a7a;
+	color: burlywood;
 }
 
 .fourth-section .portfolio-item .text h4 {
 	font-size: 17px;
-	color: #343434;
+	color: burlywood;
 	font-weight: 700;
 }
 
@@ -283,11 +283,11 @@ h1 {
 =======================*/
 
 .sixth-section {
-	background-image: url(../img/bambo.jpg);
+	background-image: url(../img/bamboo.jpg);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
-	padding: 10% 0px;
+	padding: 40px;
 }
 
 .sixth-section input {
@@ -357,7 +357,7 @@ h1 {
 
 .sixth-section .right-info ul li a {
 	text-decoration: none;
-	color: #415b90;
+	color: darkslateblue;
 }
 
 .sixth-section .right-info ul li i {
@@ -367,9 +367,9 @@ h1 {
 	height: 46px;
 	line-height: 46px;
 	text-align: center;
-	color: #415b90;
+	color: darkslateblue;
 	border-radius: 50%;
-	border: 1px solid #415b90;
+	border: 1px solid darkslateblue;
 	font-size: 18px;
 }
 
@@ -381,7 +381,7 @@ footer {
 	text-align: center;
 	width: 100%;
 	padding: 20px;
-	background-color: #9ACD32;
+	background-color:darkgray;
 
 }
 
